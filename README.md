@@ -72,7 +72,7 @@
 
 
 [website]: https://google.com
-[twitter]: https://twitter.com/ggarkoti02
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fggarkoto02&screen_name=ggarkoti02
 [youtube]: https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw
 [medium]: https://ggarkoti02.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaurav-garkoti-a47783188/
