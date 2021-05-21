@@ -50,20 +50,21 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Create an Application Backend in Clicks with the Amplify Admin UI | Interview :: Ali Spittel (2021)](https://www.youtube.com/watch?v=SvPJMwbR8ac)
-- [The Third Age of JavaScript | Interview :: Swyx (2021)](https://www.youtube.com/watch?v=Nan1hqQ90_4)
-- [Can You Code Without A Keyboard?? VS Code Voice ONLY Coding Challenge!](https://www.youtube.com/watch?v=2kJRuAmZgIA)
-- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
+- [Right Machine Learning Approach (2021)](https://www.youtube.com/watch?v=QFiaBnSCHUQ&ab_channel=GauravEducationGauravEducation)
+- [Gradient descent Algorithm from scratch (2021)](https://www.youtube.com/watch?v=VKVBBjmmN6w)
+- [Linear Regression Indepth (2021)](https://www.youtube.com/watch?v=meIq7dRbT-0&t=40s&ab_channel=GauravEducationGauravEducation)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw)
+➡️ [more videos...](https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw/videos)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning (2021)](https://ggarkoti02.medium.com/machine-learning-6c233caa3c8a)
+- [Linear Regression: Gentle Introduction (2021)](https://medium.com/geekculture/linear-regression-gentle-introduction-cc04ffda4267)
+- [Right Machine Learning Approach (2021)](https://ggarkoti02.medium.com/approaching-machine-learning-right-way-ec7ad430b89c)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ggarkoti02.medium.com/)
