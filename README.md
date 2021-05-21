@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://ggarkoti02.medium.com/](https://ggarkoti02.medium.com/)
 
-- 💬 Ask me about **Pyhon, Machine Learning and Neural Networks**
+- 💬 Ask me about **Python, Machine Learning and Neural Networks**
 
 - 📫 How to reach me **ggarkoti02@gmail.com**
 
