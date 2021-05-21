@@ -24,8 +24,8 @@
 <a href="https://twitter.com/ggarkoti02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ggarkoti02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-garkoti-a47783188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-garkoti-a47783188/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ggarkoti02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="ggarkoti02" height="30" width="40" /></a>
-<a href="https://medium.com/@https://ggarkoti02.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@https://ggarkoti02.medium.com/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwgcjuxdjsvutrl4baj6mpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucwgcjuxdjsvutrl4baj6mpw" height="30" width="40" /></a>
+<a href="https://medium.com/ggarkoti02.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@https://ggarkoti02.medium.com/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucwgcjuxdjsvutrl4baj6mpw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
