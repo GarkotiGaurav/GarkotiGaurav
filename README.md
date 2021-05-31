@@ -26,14 +26,14 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][algorithms] 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/download.jpg" />][algorithms] 
-[<img align="left" alt="Python" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/python.jpg" />][algorithms]
-[<img align="left" alt="Sicikit-learn" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/sklearn.png" />][algorithms]
-[<img align="left" alt="Tensorflow" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/tensorflow.png" />][algorithms]
-[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/matplotlib.png" />][algorithms]
-[<img align="left" alt="Keras" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/keras.png" />][algorithms]
-[<img align="left" alt="Numpy" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/numpy.png" />][pandas]
-[<img align="left" alt="Pandas" width="26px" src="https://github.com/GarkotiGaurav/hi/blob/main/download%20(2).png" />][pandas]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/jupyter.jpg" />][algorithms] 
+[<img align="left" alt="Python" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaurav/blob/main/python.jpg" />][algorithms]
+[<img align="left" alt="Sicikit-learn" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/sklearn.png" />][algorithms]
+[<img align="left" alt="Tensorflow" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/tensorflow.png" />][algorithms]
+[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/matplotlib.png" />][algorithms]
+[<img align="left" alt="Keras" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/keras.png" />][algorithms]
+[<img align="left" alt="Numpy" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/numpy.png" />][pandas]
+[<img align="left" alt="Pandas" width="26px" src="https://github.com/GarkotiGaurav/GarkotiGaura/blob/main/pandas.png" />][pandas]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][mlplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][mlplaylist]
 
