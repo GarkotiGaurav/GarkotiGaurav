@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Gaurav Education | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!--[<img align="left" alt="Gaurav Education | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="ggarkoti02 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gaurav Garkoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ggarkoti02 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -69,12 +69,14 @@
 
 [website]: https://google.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fggarkoto02&screen_name=ggarkoti02
-[youtube]: https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw/featured?sub_confirmation=1
+<!--[youtube]: https://www.youtube.com/channel/UCwgcJUxDjsVUtrl4baJ6Mpw/featured?sub_confirmation=1-->
 [medium]: https://ggarkoti02.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaurav-garkoti-a47783188/
 [kaggle]: https://www.kaggle.com/ggarkoti02
 
-
+<!--
 [algorithms]: https://www.youtube.com/playlist?list=PLwiNT7AoJ2KDyMr9lTV7uYkSV3OSbQXI2
 [mlplaylist]: https://www.youtube.com/playlist?list=PLwiNT7AoJ2KAxJDgFce0p_dCOEl6r5t42
 [pandas]: https://www.youtube.com/playlist?list=PLwiNT7AoJ2KAQfnbxPdS0MpmHaXCbIrAz
+
+-->
